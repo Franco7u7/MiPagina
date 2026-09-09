@@ -1,0 +1,19 @@
+body{
+    background-color: #e0e0e0;
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    background-color: #2196f3;
+    color: white;
+    text-align: center;
+}
+
+div.contenido{
+    margin: 0 auto;
+    width: 60%;
+}
+
+div.contenido p{
+    font-size: 18px;
+}
