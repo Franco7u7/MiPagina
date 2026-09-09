@@ -1,0 +1,30 @@
+.fondo-pagina{
+    background-color: lightblue
+}
+
+.caja-texto{
+    font-size: 20px;
+}
+
+.titulo-subrayado{
+    text-decoration: underline;
+    color: white;
+}
+
+.parrafo-navy{
+    color: navy;
+    font-weight: bold;
+}
+
+.parrafo-mayus{
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+.parrafo-chico{
+    font-size: 12px;
+}
+
+.cursiva{
+    font-style: italic;
+}
